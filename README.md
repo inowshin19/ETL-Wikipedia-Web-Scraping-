@@ -1,4 +1,4 @@
-# ETL-by-Wikipedia-Web-Scraping
+# ETL-Wikipedia-Web-Scraping
 
 This project is an ETL project which also have Data Analysis. The project focuses on the following aspects:
 
